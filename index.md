@@ -19,4 +19,4 @@ As Oliver Twist said:
 > Ehne mehne muh du bist eine Kuh
 > ehne mehne meck dieser Satz ist Dreck.
 
-img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSP3-umxp8YpF8fb5c8NPe4QEKMgg83Orj4yg&usqp=CAU"
+img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSP3-umxp8YpF8fb5c8NPe4QEKMgg83Orj4yg&usqp=CAU"/
