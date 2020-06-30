@@ -13,3 +13,8 @@ Trotz der schwierigen Umstände verlor er nie seine positive Einstellung zum Leb
 * klein
 * verletzlich
 * schüchtern
+
+As Oliver Twist said:
+
+> Ehne mehne muh du bist eine Kuh
+> ehne mehne meck dieser Satz ist Dreck.
